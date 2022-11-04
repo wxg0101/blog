@@ -45,7 +45,7 @@ mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6
 # fbadmin: ar.maybach
 
 # Paginate
-paginate: 2
+paginate: 6
 paginate_path: 'page:num'
 words_per_minute: 200
 
