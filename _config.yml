@@ -40,13 +40,13 @@ stackoverflow: None # Add your stackoverflow account
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
-# Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+# # Tracker
+# analytics: G-R8SZS2YBZK
+# fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
-paginate_path: 'page:num'
+paginate_path: '/blog/page:num'
 words_per_minute: 200
 
 # Comments
@@ -70,7 +70,7 @@ compress_html:
   startings: [html, head, body]
 
 # Outputting
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CN # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 category_archive:
   type: liquid
