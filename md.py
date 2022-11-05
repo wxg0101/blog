@@ -20,14 +20,14 @@ if __name__=="__main__":
 layout: post
 read_time: true
 show_date: true
-title: "Who owns the copyright for an AI generated creative work?"
+title: "my title"
 date: {datetime.now().strftime('%Y-%m-%d')}             # 时间
 img: posts/20210420/post8-rembrandt.jpg
-tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+tags: [artificial intelligence]
 mathjax: yes
 category: opinion
-author: Armando Maynez
-description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
+author: Xingguang
+description: "my doc"
 ---
 
 ## Hey
